@@ -1,5 +1,5 @@
 # 💫 About Me:
-As an aspiring software engineer, I have substantial experience in backend and cross-platform mobile development,<br>complemented by a background in competitive programming. I am driven by a passion for creating innovative and<br>efficient solutions. 
+👋 Hey there! I'm an aspiring software engineer with a knack for backend and cross-platform mobile development. My journey started in competitive programming, and I love tackling challenges head-on. 💻✨
 
 
 ## 🌐 Socials:
