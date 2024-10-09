@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hey there! I'm an aspiring software engineer with a knack for backend and cross-platform mobile development. My journey started in competitive programming, and I love tackling challenges head-on. 💻✨
-
+Currently diving into the world of DevOps, I’m all about building innovative and efficient solutions. Let’s create something amazing together!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muazhussain) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/muazhussain7) 
